@@ -28,4 +28,4 @@ Once you run ``npm start``, the web server will run on port 3000, or the PORT en
 - [Titanium Network (UltraViolet)](https://github.com/titaniumnetwork-dev)
   
 
-  <p align="center">Made with ♡ by <a href="https://www.brianwalczak.com">Briann</a></p>
+  <p align="center">Made with ♡ by <a href="https://brian.re/">Briann</a></p>
